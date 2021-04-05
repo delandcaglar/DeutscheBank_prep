@@ -1,0 +1,34 @@
+
+def let test_ ile baslmamali
+
+bazi test modeullerini c ile yazabiliyorsun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sorular:
+ c codu implemente edecek miyiz
+
+
+dry = dont repeat yoursel
+
+# pycharm multi cursor funtionality baya iyi
+
+functions does not run with order usual
+
+
+Best practices
+1-) test should be isoleted independent on other tests
+2-) test driven development is you write the test before you write the code
+consept is: you should think about what you want your code to do
+3-) 
